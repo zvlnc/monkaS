@@ -1,2 +1,3 @@
-No importa el genero, si no lo que genera
-Dime como se hace esto, y cómo se hará
+No importa el genero, si no lo que genera.
+
+Se borró la linea 2 y se implemento una más, quedó pendiente a sus 2 lineas.
