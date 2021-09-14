@@ -1,1 +1,1 @@
-Se elminaron todas las lineas, para la prueba final.
+Hora de probar el undo-action de GitHub, prueba rápida y terminamos la actividad.
