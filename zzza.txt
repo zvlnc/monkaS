@@ -6,3 +6,4 @@ Dime como se hace esto, y cómo se hará
 Es de esta forma, eso pienso
 >>>>>>> f01da47b0b85cf1c4249c876720ea1c234ad4366
 Espero que esto funcione
+De alguna manera esta funcionando
